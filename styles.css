@@ -325,7 +325,7 @@ header h5 {
   }
 }
 
-@media screen and (max-width: 365px) {
+@media screen and (max-width: 375px) {
   .container {
     padding: 10px;
   }
