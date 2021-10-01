@@ -208,12 +208,4 @@ header {
   .container {
     padding: 10px;
   }
-  .bio {
-    padding: 10px;
-    &__avatar {
-      & img {
-        width: 80%;
-      }
-    }
-  }
 }
