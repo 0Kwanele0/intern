@@ -15,14 +15,12 @@ body {
 }
 header {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   width: 100%;
   margin: 0px 0 20px 0;
   align-items: center;
   padding: 10px;
-  .menu {
-    width: 45px;
-  }
+
   h5 {
     font-size: 22px;
   }
